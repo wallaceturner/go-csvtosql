@@ -1,0 +1,18 @@
+{
+   "SqlTableName":"table1",
+   "DbConnectionString": "database=SampleDatabase;server=localhost;User Id=user1;Password=fred;",
+   "Mappings":[
+      {
+         "Csv":"csv-column1",
+         "Sql":"sql-column1"
+      },
+      {
+         "Csv":"csv-column2",
+         "Sql":"sql-column2"
+      },
+      {
+         "Csv":"csv-column3",
+         "Sql":"sql-column3"
+      }
+   ]
+}
